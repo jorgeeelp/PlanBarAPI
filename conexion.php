@@ -1,8 +1,8 @@
 <?php
-$servidor = "sql112.infinityfree.com";
-$usuario = "if0_41363922";
-$password = "H27vPQvHqFKJi";
-$base_datos = "if0_41363922_restaurante";
+$servidor = "fdb1032.awardspace.net";
+$usuario = "4742077_restaurante";
+$password = "^-2iU6[%20K)eQT?";
+$base_datos = "4742077_restaurante";
 
 $conn = new mysqli($servidor, $usuario, $password, $base_datos);
 
